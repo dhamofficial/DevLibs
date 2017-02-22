@@ -1,6 +1,13 @@
 # DevLibs
 Useful Libraries For Web & Mobile Application Development
 
+Web Development - Starters
+--
+
+## AngularJS tutorial for beginners with NodeJS ExpressJS and MongoDB (Part I)
+http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/
+
+
 Mobile
 --
 
