@@ -4,8 +4,15 @@ Useful Libraries For Web & Mobile Application Development
 Web Development - Starters
 --
 
-## AngularJS tutorial for beginners with NodeJS ExpressJS and MongoDB (Part I)
+### AngularJS tutorial for beginners with NodeJS ExpressJS and MongoDB (Part I)
+Part - 1
 http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/
+
+### Creating RESTful APIs with NodeJS and MongoDB Tutorial (Part II)
+http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/
+
+### MEAN Stack Tutorial MongoDB ExpressJS AngularJS NodeJS (Part III)
+http://adrianmejia.com/blog/2014/10/03/mean-stack-tutorial-mongodb-expressjs-angularjs-nodejs/
 
 
 Mobile
