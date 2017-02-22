@@ -45,3 +45,14 @@ MongoDb
 Install MongoDB Community Edition on Windows
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 
+
+
+Xamarin
+--
+
+### Open Source Apps
+
+https://github.com/xamarin/sport
+https://github.com/jamesmontemagno/MyShoppe
+https://evolve.xamarin.com/#top
+https://github.com/xamarinhq/app-evolve
