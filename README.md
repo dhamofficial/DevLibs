@@ -14,6 +14,14 @@ http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-node
 ### MEAN Stack Tutorial MongoDB ExpressJS AngularJS NodeJS (Part III)
 http://adrianmejia.com/blog/2014/10/03/mean-stack-tutorial-mongodb-expressjs-angularjs-nodejs/
 
+### Awesome AngularJS 
+https://github.com/gianarb/awesome-angularjs
+
+### 15 Directives to Extend Your Angular.js Apps
+http://codecondo.com/angular-js-directives/
+
+### 18 Best AngularJS Directives for Developers
+https://codegeekz.com/18-best-angularjs-directives-for-developers/
 
 Mobile
 --
